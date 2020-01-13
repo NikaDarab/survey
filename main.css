@@ -1,0 +1,43 @@
+body {
+font-family:Arial, Helvetica, sans-serif;
+background-color: antiquewhite;
+color: rgb(88, 41, 150);
+}
+
+#description {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+    background-color: rgb(233, 128, 128);
+    color: black;
+    font-weight: 200;
+    font-style: italic;
+}
+.form-group {
+    background-color:rgb(238, 185, 185);
+    color:black;
+    width: 200px;
+    height: 100px;
+    padding: 8px;
+    display: block;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+#survey-form {
+    display: block;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+label {
+    display: block;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+}
+ textarea {
+    display: block;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+ }
